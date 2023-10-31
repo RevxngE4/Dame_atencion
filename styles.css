@@ -1,0 +1,54 @@
+body {
+    font-family: "Cursive", cursive;
+    background-color: #FFE4E1; /* Rosa claro */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF69B4; /* Rosa profundo */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 36px;
+    color: black; /* Rosa profundo */
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: #FF69B4; /* Rosa profundo */
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #FF69B4; /* Rosa profundo */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #FF1493; /* Rosa fuerte */
+}
